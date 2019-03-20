@@ -1,7 +1,7 @@
 # Quack
 Quack Generador de Payload's para USB Rubber Ducky
-[![](https://4.bp.blogspot.com/-AU_O04fUP7o/XJI1K3IlHbI/AAAAAAAAOPU/TWsbKaHCeWoHs9-4hXUXvbocEp5G87IaQCLcBGAs/s1600/Screenshot_3.png)]
-(https://www.lpericena.tk/2019/03/quack-generador-de-payloads-para-usb.html)
+[![](https://4.bp.blogspot.com/-AU_O04fUP7o/XJI1K3IlHbI/AAAAAAAAOPU/TWsbKaHCeWoHs9-4hXUXvbocEp5G87IaQCLcBGAs/s1600/Screenshot_3.png)
+- (https://www.lpericena.tk/2019/03/quack-generador-de-payloads-para-usb.html)
 
 ¿Qué es Payload?
 Un Payload es considerado toda aquella carga dañina que se activa al ejecutar un Malware es también conocido como la carga útil, 
