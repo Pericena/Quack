@@ -1,0 +1,8 @@
+DELAY 300
+GUI r
+DELAY 100
+STRING notepad
+ENTER
+DELAY 100
+STRING Hello Cyber Hacking!!!
+ENTER
